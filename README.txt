@@ -45,7 +45,14 @@ Thanks for your helping audio analysis code (https://github.com/samuellapointe/P
 
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
-Song in songs-folder from: https://www.youtube.com/audiolibrary/music
+
+Song in songs-folder: Senso by SunnYz (https://www.youtube.com/watch?v=9ytHCimgUos) provided by Frequency
+Credit Links:
+https://soundcloud.com/sunny-verananchai
+https://www.youtube.com/user/SunnyzPC
+http://instagram.com/sunnyzve
+https://twitter.com/SunnYzPC
+https://www.facebook.com/pages/Sunnyz...
 
 Tipp: Works best with electronic music
 

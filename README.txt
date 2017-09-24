@@ -32,7 +32,7 @@ Color Modes:
 [s]................shine mode
 [d]................no border mode
 [f]................subtract mode
-[g]................blink mode
+[g]................flickering mode
 
 
 [p]...............pause the song and get back to the interface (menu)

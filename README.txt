@@ -3,9 +3,6 @@
 |  |  | .'|     | -_|  | . |  _|  | | | | | |_ -| |  _|
 |_____|__,|_|_|_|___|  |___|_|    |_|_|_|___|___|_|___|
 
-<iframe src="https://player.vimeo.com/video/235226370" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
 WELCOME TO GAME OF MUSIC
 
 For this programm you need the java runtime environment
@@ -15,6 +12,8 @@ Then you can choose them in the interface.
 
 On the interface, you can change some values to fit the visualization to your music.
 Press p to get back to that interface.
+
+Example: https://player.vimeo.com/video/235226370
 
 Values to Tweak:
 Sound Reaction Speed: How fast the music reacts to the music

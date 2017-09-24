@@ -13,7 +13,7 @@ Then you can choose them in the interface.
 On the interface, you can change some values to fit the visualization to your music.
 Press p to get back to that interface.
 
-Example: https://player.vimeo.com/video/235226370
+Example: https://vimeo.com/235226370
 
 Values to Tweak:
 Sound Reaction Speed: How fast the music reacts to the music

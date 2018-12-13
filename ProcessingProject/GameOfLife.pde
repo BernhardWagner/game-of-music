@@ -1,4 +1,4 @@
-public class GameOfLife extends Thread{
+public class GameOfLife {
   
   //consturctor
   public GameOfLife(){}
